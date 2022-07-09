@@ -1,0 +1,108 @@
+{
+  "skills": [
+    {
+      "type": "Languages",
+      "skills": [
+        {
+          "name": "C++",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
+        },
+        {
+          "name": "Python",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"
+        },     
+        {
+          "name": "Machine Learning",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colored_neural_network.svg/300px-Colored_neural_network.svg.png"
+        },
+        {
+          "name": "Data Science",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/DataScienceDisciplines.png"
+        }
+      ]
+    },
+    {
+      "type": "ML/Dev",
+      "skills": [ 
+        {
+          "name": "Flutter",
+          "img": "https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png"
+        },
+        {
+          "name": "HTML",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+        },
+        {
+          "name": "CSS",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+        },
+        {
+          "name": "Numpy",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"
+        },
+        {
+          "name": "Pandas",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"
+        },
+        {
+          "name": "Scikit Learn",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"
+        },
+        {
+          "name": "Scipy",
+          "img": "https://www.fullstackpython.com/img/logos/scipy.png"
+        },
+        {
+          "name": "Matplotlib",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"
+        }
+      ]
+    },
+    {
+      "type": "Tools",
+      "skills": [ 
+        {
+          "name": "Linux Commands",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"
+        },
+        {
+          "name": "Git",
+          "img": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+        },
+        {
+          "name": "GitHub",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        }
+      ]
+    },
+    {
+      "type": "Tools",
+      "skills": [ 
+        {
+          "name": "Windows",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"
+        },
+        {
+          "name": "VSCode",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+        },
+        {
+          "name": "Pycharm",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png"
+        },
+        {
+          "name": "Spyder",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/2560px-Spyder_logo.svg.png"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"
+        },
+        {
+          "name": "Google Colab",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png"
+        }
+      ]
+    }
+  ]
+}
